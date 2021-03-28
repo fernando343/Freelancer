@@ -58,7 +58,7 @@ h2 {
 
 @media (min-width: 1024px) {
     .logo img {
-        width: 100px;
+        width: 50px;
         display: block;
     }
 }
